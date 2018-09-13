@@ -2,6 +2,7 @@
 // An example of using php-webdriver.
 // Do not forget to run composer install before and also have Selenium server started and listening on port 4444.
 
+
 namespace Facebook\WebDriver;
 
 use Facebook\WebDriver\Remote\DesiredCapabilities;
